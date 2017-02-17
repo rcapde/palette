@@ -45,3 +45,19 @@
   padding: 15px;
   font-size: 1em;
 }
+.copied{
+  color:black;
+  padding-left: 20%;
+  font-size: 1.2em;
+  -webkit-animation: fadeinout 1s linear forwards;
+  animation: fadeinout 1s linear forwards;
+  opacity: 0;
+}
+
+@-webkit-keyframes fadeinout {
+50% { opacity: 1; }
+}
+
+@keyframes fadeinout {
+50% { opacity: 1; }
+}

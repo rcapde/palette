@@ -27,7 +27,6 @@ class Palette extends Component {
           <Color colorcode={'#2d3033'} colorname={'Coal'} fontcolor={'#777'}/>
           <Color colorcode={'#20232a'} colorname={'Ink'} fontcolor={'#777'}/>
           <Color colorcode={'#1e1e20'} colorname={'Blackish'} fontcolor={'#777'}/>
-
         </div>
       </div>
     );
